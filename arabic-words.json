@@ -1,6 +1,4 @@
-const ArabicDict = {
-  'أ':
-    [
+ [
       'أباظة',
       'أبجدي',
       'أبحاث',
@@ -5213,11 +5211,4 @@ const ArabicDict = {
       'إيلاف',
       'إيناس',
       'إيهاب'
-    ],
-  // the following letters map to empty arrays as arabic words don't start with those letters
-  'ة': [],
-  'ئ': [],
-  'ء': []
-}
-
-export default ArabicDict
+    ]
